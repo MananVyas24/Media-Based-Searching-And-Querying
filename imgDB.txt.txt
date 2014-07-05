@@ -1,0 +1,14 @@
+13
+coca_lev1-1.v576.rgb
+coca_lev2-1.v576.rgb
+flower_lev1-1.576.rgb
+flower_lev2-1.576.rgb
+orange_lev0.576.rgb
+orange_lev1-1.576.rgb
+orange_lev2-1.576.rgb
+starbucks_lev0.576.rgb
+starbucks_lev1-1.576.rgb
+starbucks_lev2-1.576.rgb
+us_flag_lev0.576.rgb
+us_flag_lev1-1.576.rgb
+us_flag_lev2-1.576.rgb
