@@ -574,8 +574,7 @@ public class Recognizer
         Mat matchedImage = new Mat(matQ.rows(), matQ.cols()*2, matQ.type());
         Features2d.drawMatches(matQ, kpQ, matDB, kpDB, matchs, matchedImage);
 
-		// 出力画像 at SIFT
-        Highgui.imwrite("./descriptedImageBySIFT.jpg", matchedImage);
+		Highgui.imwrite("./descriptedImageBySIFT.jpg", matchedImage);
 
     }
 
